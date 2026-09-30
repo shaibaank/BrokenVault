@@ -4,3 +4,12 @@ dist/
 brokenvault_sample_v1/
 brokenvault_sample_v2/
 real-test-data/
+backend/node_modules/
+client/node_modules/
+.postgresql/
+dist/
+.postgresql/
+node_modules/
+backend/node_modules/
+client/node_modules/
+dist/

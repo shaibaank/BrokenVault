@@ -150,3 +150,9 @@ server run with `npm run test:client`.
 
 - Libraries and services used: Express, Prisma with `@prisma/adapter-pg`, `pg`, `dotenv`, TypeScript, tsx, `@types/node`, and PostgreSQL. The CLI and tests use only Node.js built-in modules (fs, crypto, http, fetch, node:test).
 - AI tools used and what they helped with: Claude (Anthropic) helped write and review the CLI client, the manifest validation, the restore hash checks, the `/verify` endpoint, the batched manifest insert, the automated tests and these documents. The team ran and checked the results against the real backend.
+
+
+"C:\Users\shaib\Downloads\Participants_guide\brokenvault_sample_v1.zip"
+"C:\Users\shaib\Downloads\Participants_guide\brokenvault_sample_v2.zip"
+
+unzip and test all the operations on these folders
